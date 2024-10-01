@@ -6,9 +6,12 @@ header{
     width: 100%;
 }
 ul{
+    display: flex;
     list-style: none;
     color: chartreuse;
     font-size: 40px;
     text-transform: uppercase;
     justify-content: center;
+    align-items: center;
+    gap: 28px;
 }
