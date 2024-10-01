@@ -9,6 +9,6 @@ ul{
     list-style: none;
     color: chartreuse;
     font-size: 40px;
-    margin: 20px;
-
+    text-transform: uppercase;
+    justify-content: center;
 }
