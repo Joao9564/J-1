@@ -5,7 +5,8 @@ header{
     display: flex;
     width: 100%;
     justify-content: space-around;
-    background-color: white;
+    background: rgb(6,8,65);
+background: linear-gradient(90deg, rgba(6,8,65,1) 0%, rgba(118,125,221,1) 50%, rgba(0,212,255,1) 100%);
 }
 .nav-lista{
     display: flex;
