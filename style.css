@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(255, 255, 255);
+    background: rgb(92,114,228);
+background: radial-gradient(circle, rgba(92,114,228,1) 0%, rgba(20,33,120,1) 100%);
 }
 header{
     display: flex;
