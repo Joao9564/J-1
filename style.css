@@ -4,7 +4,7 @@ body {
 header{
     display: flex;
     width: 100%;
-    align-items:center;
+    justify-content: space-around;
 }
 .nav-lista{
     display: flex;
@@ -32,4 +32,9 @@ section {
 .secao {
     padding-top: 8%;
     padding-right: 2%;
+}
+.moldura videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
